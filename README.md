@@ -92,7 +92,7 @@ npm install
 3. Install frontend dependencies:
 
 ```bash
-cd workout-tracker
+cd client
 npm install
 ```
 
