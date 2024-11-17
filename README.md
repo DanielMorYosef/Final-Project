@@ -158,7 +158,7 @@ npm start
 
 5. **Initial Data And Service**
     - upon installation services will be executed
-    - 2 users (one admin one regular passwords provided inside usersInitialData in comments)
+    - 2 users (one admin one regular passwords provided inside usersInitialData file)
     - 574 Exercises built in the database
     - No workouts other than the sample ones are pre made
 
