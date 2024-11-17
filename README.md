@@ -119,7 +119,7 @@ npm start
 7. Start the frontend application:
 
 ```bash
-cd workout-tracker
+cd client
 npm start
 ```
 
